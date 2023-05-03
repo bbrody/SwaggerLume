@@ -1,5 +1,5 @@
 {
-  "name": "darkaonline/swagger-lume",
+  "name": "bbrody/swagger-lume",
   "description": "OpenApi or Swagger integration to Lumen",
   "keywords": [
     "lumen",
@@ -20,8 +20,8 @@
     }
   ],
   "require": {
-    "php": ">=7.2 || ^8.0",
-    "laravel/lumen-framework": "~6.0 || ~7.0 || ^8.0 || ^9.0",
+    "php": ">=7.2 || ^8.0 || ^8.1",
+    "laravel/lumen-framework": "~6.0 || ~7.0 || ^8.0 || ^9.0 || ^10",
     "zircote/swagger-php": "~2.0 || 3.*",
     "swagger-api/swagger-ui": "^3.0"
   },
